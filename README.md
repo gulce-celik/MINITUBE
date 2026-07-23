@@ -1,4 +1,6 @@
-# MINITUBE
+<p align="center">
+  <img src="docs/banner.png" alt="MINITUBE" width="100%">
+</p>
 
 A simplified YouTube-style video sharing web app built with **PHP** and **MySQL**.  
 Users can browse subscription feeds, open channels, watch videos, leave threaded comments, manage playlists, and run live SQL queries against the project database.
