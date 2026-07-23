@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="MINITUBE" width="420">
+  <img src="docs/banner.png" alt="MINITUBE" width="480">
 </p>
 
 A simplified YouTube-style video sharing web app built with **PHP** and **MySQL**.  
