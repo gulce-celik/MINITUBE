@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!-- Gülce Celik - login form; on success login.php sends user to feed.php -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login - MINITUBE</title>
+    <link rel="stylesheet" href="style.css?v=14">
+</head>
+<body class="login-page">
+    <header class="site-header">
+        <div class="header-inner">
+            <span class="logo">MINITUBE</span>
+            <h1 class="page-title">Login</h1>
+        </div>
+    </header>
+    <div class="wrap">
+        <div class="card form-box">
+            <h2>Sign in</h2>
+            <div id="login-error" class="error" style="display:none;">Wrong username or password.</div>
+            <script>
+                if (window.location.search.indexOf('error=1') !== -1) {
+                    document.getElementById('login-error').style.display = 'block';
+                }
+            </script>
+            <form action="login.php" method="post">
+                <div class="form-row">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="form-row">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="btn">Login</button>
+            </form>
+            <p class="meta" style="margin-top:16px;"><a href="register.html">Create an account</a></p>
+        </div>
+    </div>
+    <footer class="site-footer"><p>MINITUBE &mdash; G&uuml;lce &Ccedil;elik &mdash; CSE348</p></footer>
+</body>
+</html>
