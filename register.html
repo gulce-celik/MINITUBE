@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!-- Gülce Celik - optional register page I added; posts to register.php -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Register - MINITUBE</title>
+    <link rel="stylesheet" href="style.css?v=14">
+</head>
+<body class="login-page">
+    <header class="site-header">
+        <div class="header-inner">
+            <span class="logo">MINITUBE</span>
+            <h1 class="page-title">Register</h1>
+        </div>
+    </header>
+    <div class="wrap">
+        <div class="card form-box">
+            <h2>Create account</h2>
+            <div id="reg-error" class="error" style="display:none;"></div>
+            <script>
+                var p = window.location.search;
+                var el = document.getElementById('reg-error');
+                if (p.indexOf('error=empty') !== -1) {
+                    el.textContent = 'Please fill in all required fields.';
+                    el.style.display = 'block';
+                } else if (p.indexOf('error=user') !== -1) {
+                    el.textContent = 'That username is already taken.';
+                    el.style.display = 'block';
+                }
+            </script>
+            <form action="register.php" method="post">
+                <div class="form-row">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="form-row">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <div class="form-row">
+                    <label for="full_name">Full name</label>
+                    <input type="text" id="full_name" name="full_name" required>
+                </div>
+                <div class="form-row">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-row">
+                    <label for="country">Country</label>
+                    <input type="text" id="country" name="country" required>
+                </div>
+                <div class="form-row">
+                    <label for="bio">Bio (optional)</label>
+                    <textarea id="bio" name="bio" rows="3"></textarea>
+                </div>
+                <button type="submit" class="btn">Register</button>
+            </form>
+            <p class="meta" style="margin-top:16px;">Already have an account? <a href="login.html">Login</a></p>
+        </div>
+    </div>
+    <footer class="site-footer"><p>MINITUBE &mdash; G&uuml;lce &Ccedil;elik &mdash; CSE348</p></footer>
+</body>
+</html>
