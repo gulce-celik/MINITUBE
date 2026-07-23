@@ -1,0 +1,16 @@
+# Local / tooling
+sync-to-ampps.ps1
+tools/
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional local overrides
+config.local.php
+.env
