@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- Gülce Celik - CSE348 MINITUBE
+     First page of the site. Page title in <title> is my name (PDF rule).
+     The button posts to install.php to create and fill the database. -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <title>Gülce Çelik</title>
+    <link rel="stylesheet" href="style.css?v=13">
+</head>
+<body class="page-start">
+    <div class="start-wrap">
+        <main class="db-cylinder" aria-label="Database setup">
+            <div class="db-cylinder-lid" aria-hidden="true"></div>
+            <div class="db-cylinder-body">
+                <p class="start-meta">CSE348 &middot; Database Management Systems</p>
+                <h1 class="start-title">MINITUBE &mdash; A YOUTUBE CLONE</h1>
+                <form class="start-only" action="install.php" method="post">
+                    <button type="submit" class="btn btn-start">Initialize Database</button>
+                </form>
+            </div>
+            <div class="db-cylinder-base" aria-hidden="true"></div>
+        </main>
+        <div class="start-credit">
+            <p class="start-credit-ca">Course Assistant: Altuğ Parlak</p>
+            <p>Student Name : Gülce Çelik</p>
+            <p>Student ID : 20220702041</p>
+        </div>
+    </div>
+</body>
+</html>
