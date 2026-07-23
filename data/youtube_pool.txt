@@ -1,0 +1,329 @@
+# category|youtube_id|title|duration_seconds|description
+Music|RBumgq5yVrA|Passenger / Let Her Go (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|JGwWNGJdvx8|Ed Sheeran - Shape of You (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|nfWlot6h_JM|Taylor Swift - Shake It Off|240|Verified embeddable YouTube video for MINITUBE.
+Music|kTHNpusq654|Katy Perry - Hot N Cold (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|RgKAFK5djSk|Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack|240|Verified embeddable YouTube video for MINITUBE.
+Music|9bZkp7q19f0|PSY - GANGNAM STYLE(강남스타일) M/V|252|Verified embeddable YouTube video for MINITUBE.
+Music|kJQP7kiw5Fk|Luis Fonsi - Despacito ft. Daddy Yankee|282|Verified embeddable YouTube video for MINITUBE.
+Music|fJ9rUzIMcZQ|Queen – Bohemian Rhapsody (Official Video Remastered)|355|Verified embeddable YouTube video for MINITUBE.
+Music|dQw4w9WgXcQ|Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)|213|Verified embeddable YouTube video for MINITUBE.
+Comedy|jNQXAC9IVRw|Me at the zoo|19|Verified embeddable YouTube video for MINITUBE.
+Music|OPf0YbXqDm0|Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|XqZsoesa55w|Baby Shark Dance / #babyshark Most Viewed Video / Animal Songs / PINKFONG Songs for Children|131|Verified embeddable YouTube video for MINITUBE.
+Comedy|J---aiyznGQ|Keyboard Cat! - THE ORIGINAL!|55|Verified embeddable YouTube video for MINITUBE.
+Comedy|VqB1uoDTdKM|DOOR STUCK! DOOR STUCK!|180|Verified embeddable YouTube video for MINITUBE.
+Comedy|hY7m5jjJ9mM|CATS will make you LAUGH YOUR HEAD OFF - Funny CAT compilation|420|Verified embeddable YouTube video for MINITUBE.
+Tech|rfscVS0vtbw|Learn Python - Full Course for Beginners [Tutorial]|15200|Verified embeddable YouTube video for MINITUBE.
+Tech|zOjov-2OZ0E|Introduction to Programming and Computer Science - Full Course|36000|Verified embeddable YouTube video for MINITUBE.
+Tech|aircAruvnKk|But what is a neural network? / Deep learning chapter 1|1240|Verified embeddable YouTube video for MINITUBE.
+Tech|8D9XnnjFGMs|GraphQL with Apollo Server 2.0|5400|Verified embeddable YouTube video for MINITUBE.
+Education|iG9CE55wbtY|Do schools kill creativity? / Sir Ken Robinson / TED|1160|Verified embeddable YouTube video for MINITUBE.
+Tech|PkZNo7MFNFg|Learn JavaScript - Full Course for Beginners|10200|Verified embeddable YouTube video for MINITUBE.
+Tech|M7lc1UVf-VE|YouTube Developers Live: Embedded Web Player Customization|600|Verified embeddable YouTube video for MINITUBE.
+Travel|LXb3EKWsInQ|COSTA RICA IN 4K 60fps HDR (ULTRA HD)|510|Verified embeddable YouTube video for MINITUBE.
+Travel|1La4QzGeaaQ|Peru 8K HDR 60FPS (FUHD)|480|Verified embeddable YouTube video for MINITUBE.
+Education|L_jWHffIx5E|Smash Mouth - All Star|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|UBMk30rjy0o|20 MIN FULL BODY WORKOUT // No Equipment / Pamela Reif|1200|Verified embeddable YouTube video for MINITUBE.
+Comedy|0e3GPea1Tyg|$456,000 Squid Game In Real Life!|960|Verified embeddable YouTube video for MINITUBE.
+DIY|EngW7tLk6R8|Sample Videos / Dummy Videos For Demo Use|60|Verified embeddable YouTube video for MINITUBE.
+DIY|ScMzIvxBSi4|Placeholder Video|60|Verified embeddable YouTube video for MINITUBE.
+DIY|nMfPqeZjc2c|White Noise Black Screen / Sleep, Study, Focus / 10 Hours|36000|Verified embeddable YouTube video for MINITUBE.
+Music|LsoLEjrDogU|Bruno Mars - Finesse (Remix) (feat. Cardi B) (Official Music Video)|217|Verified embeddable YouTube video for MINITUBE.
+Music|fLexgOxsZu0|Bruno Mars - The Lazy Song (Official Music Video)|215|Verified embeddable YouTube video for MINITUBE.
+Music|pRpeEdMmmQ0|Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)|240|Verified embeddable YouTube video for MINITUBE.
+Music|uelHwf8o7_U|Eminem - Love The Way You Lie ft. Rihanna|240|Verified embeddable YouTube video for MINITUBE.
+Music|QJO3ROT-A4E|One Direction - What Makes You Beautiful (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|kffacxfA7G4|Justin Bieber - Baby ft. Ludacris|240|Verified embeddable YouTube video for MINITUBE.
+Music|lp-EO5I60KA|Ed Sheeran - Thinking Out Loud (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|Zi_XLOBDo_Y|Michael Jackson - Billie Jean (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|09R8_2nJtjg|Maroon 5 - Sugar (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|kXYiU_JCYtU|Numb (Official Music Video) [4K UPGRADE] – Linkin Park|240|Verified embeddable YouTube video for MINITUBE.
+Music|N9qYF9DZPdw|"Weird Al" Yankovic - White & Nerdy (Official 4K Video)|200|Verified embeddable YouTube video for MINITUBE.
+Music|astISOttCQ0|Gummibär - The Gummy Bear Song - Long English Version (Official Video)|180|Verified embeddable YouTube video for MINITUBE.
+Education|5MgBikgcWnY|The first 20 hours -- how to learn anything / Josh Kaufman / TEDxCSU|1200|Verified embeddable YouTube video for MINITUBE.
+Music|1G4isv_Fylg|Coldplay - Paradise (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|0KSOMA3QBU0|Katy Perry - Dark Horse ft. Juicy J|240|Verified embeddable YouTube video for MINITUBE.
+Music|450p7goxZqg|John Legend - All of Me (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|hHUbLv4ThOo|Pitbull, Ke$ha - Timber (featuring Ke$ha - Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|nSDgHBxUbVQ|Ed Sheeran - Photograph (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|O4irXQhgMqg|The Rolling Stones - Paint It, Black (Official Lyric Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|fRh_vgS2dFE|Justin Bieber - Sorry (PURPOSE : The Movement)|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|ZXsQAXx_ao0|Shia LaBeouf "Just Do It" Motivational Speech (Original Video by LaBeouf, Rönkkö & Turner)|300|Verified embeddable YouTube video for MINITUBE.
+Music|1Q8fG0TtVAY|WONDER WOMAN - Official Trailer [HD]|150|Verified embeddable YouTube video for MINITUBE.
+Music|b1kbLwvqugk|Taylor Swift - Anti-Hero (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|e-ORhEE9VVg|Taylor Swift - Blank Space|240|Verified embeddable YouTube video for MINITUBE.
+Music|2Vv-BfVoq4g|Ed Sheeran - Perfect (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|CevxZvSJLk8|Katy Perry - Roar|240|Verified embeddable YouTube video for MINITUBE.
+Music|hT_nvWreIhg|OneRepublic - Counting Stars|240|Verified embeddable YouTube video for MINITUBE.
+Music|ktvTqknDobU|Imagine Dragons - Radioactive|240|Verified embeddable YouTube video for MINITUBE.
+Music|ZbZSe6N_BXs|Pharrell Williams - Happy (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|YQHsXMglC9A|Adele - Hello (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|YlUKcNNmywk|Red Hot Chili Peppers - Californication (Official Music Video) [HD UPGRADE]|240|Verified embeddable YouTube video for MINITUBE.
+Music|rYEDA3JcQqw|Adele - Rolling in the Deep (Official Music Video)|240|Verified embeddable YouTube video for MINITUBE.
+Music|3tmd-ClpJxA|Taylor Swift - Look What You Made Me Do|240|Verified embeddable YouTube video for MINITUBE.
+Music|60ItHLz5WEA|Alan Walker - Faded|240|Verified embeddable YouTube video for MINITUBE.
+Music|y6120QOlsfU|Darude - Sandstorm|240|Verified embeddable YouTube video for MINITUBE.
+Music|MkElfR_NPBI|Little Mix - Black Magic (Official Video)|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|R6MlUcmOul8|Tears of Steel - Blender VFX Open Movie|734|Verified embeddable YouTube video for MINITUBE.
+Gaming|YE7VzlLtp-4|Big Buck Bunny|240|Verified embeddable YouTube video for MINITUBE.
+News|6Af6b_wyiwI|The next outbreak? We’re not ready / Bill Gates / TED|240|Verified embeddable YouTube video for MINITUBE.
+Education|8jPQjjsBbIc|How to stay calm when you know you'll be stressed / Daniel Levitin / TED|240|Verified embeddable YouTube video for MINITUBE.
+Science|R9OCA6UFE-0|The philosophy of Stoicism - Massimo Pigliucci|240|Verified embeddable YouTube video for MINITUBE.
+Education|arj7oStGLkU|Inside the Mind of a Master Procrastinator / Tim Urban / TED|240|Verified embeddable YouTube video for MINITUBE.
+Education|iCvmsMzlF7o|The Power of Vulnerability / Brené Brown / TED|240|Verified embeddable YouTube video for MINITUBE.
+Tech|9No-FiEInLA|Google interns' first week|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|8S0FDjFBj8o|How to sound smart in your TEDx Talk / Will Stephen / TEDxNewYork|240|Verified embeddable YouTube video for MINITUBE.
+Education|TQMbvJNRpLE|How to Achieve Your Most Ambitious Goals / Stephen Duneier / TEDxTucson|240|Verified embeddable YouTube video for MINITUBE.
+Education|8KkKuTCFvzI|What Makes a Good Life? Lessons from the Longest Study on Happiness / Robert Waldinger / TED|240|Verified embeddable YouTube video for MINITUBE.
+Education|T67AewxhBaQ|I've Discovered Something Amazing! Again!|240|Verified embeddable YouTube video for MINITUBE.
+Education|eIho2S0ZahI|How to Speak So That People Want to Listen / Julian Treasure / TED|240|Verified embeddable YouTube video for MINITUBE.
+Education|Ks-_Mh1QhMc|Your Body Language May Shape Who You Are / Amy Cuddy / TED|240|Verified embeddable YouTube video for MINITUBE.
+Education|UyyjU8fzEYU|My stroke of insight / Jill Bolte Taylor / TED|240|Verified embeddable YouTube video for MINITUBE.
+Sports|21X5lGlDOfg|NASA Live: Official Stream of NASA TV|240|Verified embeddable YouTube video for MINITUBE.
+Tech|sBws8MSXN7A|React JS Crash Course (2019)|240|Verified embeddable YouTube video for MINITUBE.
+Tech|HGTJBPNC-Gw|HTML & CSS Full Course for free 🌎|240|Verified embeddable YouTube video for MINITUBE.
+Education|_gJMv9YtX8I|TEDxNASA - Dennis Hong - 11/20/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|yYL9l0sgIa0|TEDxNASA - Jamia Simone Nash - 11/20/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|6HhNGU08KoE|TEDxAcademy - Aristos Doxiadis|240|Verified embeddable YouTube video for MINITUBE.
+Education|yraCtUo9N6E|TEDxAcademy - Dimitris Tsoukalas|240|Verified embeddable YouTube video for MINITUBE.
+Education|kKqpiS9tjgQ|TEDxNASA - Dr. Sue Morter - 11/20/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|TcUaMo1DxkY|TEDxNASA - Mike Rayburn - 11/20/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|EcVXxTFdygk|TEDxProacademy - Jaakko Halmetoja|240|Verified embeddable YouTube video for MINITUBE.
+Education|5dMWx0AQ_sU|TEDxAcademy - Stelios Ramfos|240|Verified embeddable YouTube video for MINITUBE.
+Education|3k_ymtrJ_Qg|Using Khan Academy for flipped classroom / Khan For Educators / Khan Academy India|240|Verified embeddable YouTube video for MINITUBE.
+Tech|Oe421EPjeBE|Node.js and Express.js - Full Course|240|Verified embeddable YouTube video for MINITUBE.
+Tech|B31LgI4Y4DQ|Data Structures - Full Course Using C and C++|240|Verified embeddable YouTube video for MINITUBE.
+Tech|W6NZfCO5SIk|JavaScript Course for Beginners – Your First Step to Web Development|240|Verified embeddable YouTube video for MINITUBE.
+Tech|IHZwWFHWa-w|Gradient descent, how neural networks learn / Deep Learning Chapter 2|240|Verified embeddable YouTube video for MINITUBE.
+Tech|bC7o8P_Ste4|Greedy Algorithms Tutorial – Solve Coding Challenges|240|Verified embeddable YouTube video for MINITUBE.
+Travel|libKVRa01L8|Solar System 101 / National Geographic|240|Verified embeddable YouTube video for MINITUBE.
+Tech|RGOj5yH7evk|Git and GitHub for Beginners - Crash Course|240|Verified embeddable YouTube video for MINITUBE.
+Education|ehDAP1OQ9Zw|iPhone application developer... and 6th grader / Thomas Suarez / TEDxManhattanBeach|240|Verified embeddable YouTube video for MINITUBE.
+Education|gXDMoiEkyuQ|Gratitude / Louie Schwartzberg / TEDxSF|240|Verified embeddable YouTube video for MINITUBE.
+Education|X4Qm9cGRub0|The power of vulnerability / Brené Brown / TEDxHouston|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|F7Id9caYw-Y|What's wrong with our food system / Birke Baehr / TEDxNextGenerationAsheville|240|Verified embeddable YouTube video for MINITUBE.
+Education|rixyrCNVVGA|Robyn O'Brien / TEDxAustin 2011|240|Verified embeddable YouTube video for MINITUBE.
+Education|u4ZoJKF_VuA|Start with why -- how great leaders inspire action / Simon Sinek / TEDxPugetSound|240|Verified embeddable YouTube video for MINITUBE.
+Education|kUEGHdQO7WA|A radical experiment in empathy: Sam Richards at TEDxPSU|240|Verified embeddable YouTube video for MINITUBE.
+Education|O7yaDlZfqrc|Lesley Hazleton at TEDxRainier|240|Verified embeddable YouTube video for MINITUBE.
+Education|RENk9PK06AQ|The world's ugliest music / Scott Rickard / TEDxMIA|240|Verified embeddable YouTube video for MINITUBE.
+Education|v3BI3WfaQq8|En este mundo: Magdalena Goyheneix at TEDxRíodelaPlata-TEDxChange|240|Verified embeddable YouTube video for MINITUBE.
+Education|N25inoCea24|TEDxSSN - Dr. Pawan Agrawal - Mumbai Dabbawalas|240|Verified embeddable YouTube video for MINITUBE.
+Education|9rb5ZCe_n3k|5 qualités qui font échouer à l'école mais réussir dans la vie: Faysal Hafidi at TEDxCasablanca|240|Verified embeddable YouTube video for MINITUBE.
+Education|BlvKWEvKSi8|Dan Meyer at TEDxNYED|240|Verified embeddable YouTube video for MINITUBE.
+Education|RGF9NbPFfRo|Google consciousness / Maf Lewis and Rome Viharo / TEDxCardiff|240|Verified embeddable YouTube video for MINITUBE.
+Art|s9QVq0EM6g4|TEDxSF - Nicole Daedone - Orgasm: The Cure for Hunger in the Western Woman|240|Verified embeddable YouTube video for MINITUBE.
+Education|gHX5lAslnTc|TEDxAmsterdam 2011 - Peter van Uhm|240|Verified embeddable YouTube video for MINITUBE.
+Education|QCmsvXgxdDY|TEDxBerlin - Fabian Hemmert - 11/30/09|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|_UoMXF73j0c|The price of invulnerability: Brené Brown at TEDxKC|240|Verified embeddable YouTube video for MINITUBE.
+DIY|KLjgBLwH3Wc|Minding your mitochondria / Dr. Terry Wahls / TEDxIowaCity|240|Verified embeddable YouTube video for MINITUBE.
+Education|N2QZM7azGoA|Living beyond limits / Amy Purdy / TEDxOrangeCoast|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|K9y6MYDSAww|An argument for game artistry / Kellee Santiago / TEDxUSC|240|Verified embeddable YouTube video for MINITUBE.
+Education|ko27XN_5m6M|TEDxArabia 2011 / Bader Saleh / Eysh Elly Internet / بدر صالح / إيش اللي إنترنت|240|Verified embeddable YouTube video for MINITUBE.
+Education|ajKMkIXN1eg|TEDxToronto - Neil Pasricha "The 3 A's of Awesome"|240|Verified embeddable YouTube video for MINITUBE.
+Tech|7p189OCWpRU|TEDxToronto  - Boonaa Mohammed "Kill Them With Love"|240|Verified embeddable YouTube video for MINITUBE.
+Education|Xmbs8ihPrlg|TEDxKarachi 2011 - Imran Khan - Never Give up on Your Dreams|240|Verified embeddable YouTube video for MINITUBE.
+Education|UlDWRZ7IYqw|Dance your PhD / John Bohannon & Black Label Movement / TEDxBrussels|240|Verified embeddable YouTube video for MINITUBE.
+Education|SXM7MpoVAD0|TEDxSydney - Nigel Marsh - Work Life Balance is an Ongoing Battle|240|Verified embeddable YouTube video for MINITUBE.
+Education|K3wXI82Y8_0|TEDx: As the journey progresses|240|Verified embeddable YouTube video for MINITUBE.
+Education|3aYUpzgXSCQ|台灣空拍家園: Po-lin Chi (齊柏林) at TEDxTaipei 2011|240|Verified embeddable YouTube video for MINITUBE.
+Education|pRU5lIus-Zg|TEDxYouthOttawa - Brigette dePape - 03/04/10|240|Verified embeddable YouTube video for MINITUBE.
+Education|O3CnWavAWzc|TEDxTokyo - 川口盛之助 - 05/15/10 (日本語)|240|Verified embeddable YouTube video for MINITUBE.
+Education|gtKTcPq7XBs|Deaf in the military [Subtitled] / Keith Nolan / TEDxIslay|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|yzAVLMdeLoU|Bread and salt: Fadel Soliman at TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Education|mkA8MNccub0|The long road to everest & beyond / Omar Samra / TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Education|ctyyXjCfB50|TEDxZurich-Marco Tempest-Shows you how a high-tech sorcerer works|240|Verified embeddable YouTube video for MINITUBE.
+Tech|cQl6jUjFjp4|Duolingo -- the next chapter in human computation /  Luis von Ahn / TEDxCMU 2011|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|aR6jLD1USW0|Disruption and engagement: Roger McNamee at TEDxSantaCruz|240|Verified embeddable YouTube video for MINITUBE.
+Education|-3NKVnRN7kY|TEDxBerlin 11/15/10 - Fabian Hemmert - How can we make mobile communication more emotional|240|Verified embeddable YouTube video for MINITUBE.
+Education|_VEYn3bXz34|Cómo matar al intermediario / Hernán Casciari / TEDxRíodelaPlata|240|Verified embeddable YouTube video for MINITUBE.
+Tech|ReKCp9K_Jqw|TEDxAmericanRiviera - Jay Freeman AKA saurik - Even software should have screws|240|Verified embeddable YouTube video for MINITUBE.
+Education|7Iv2nZnZOrM|Sarah Kay, Poetess/Storyteller / TEDxEast|240|Verified embeddable YouTube video for MINITUBE.
+Sports|QZmwbpclGn0|Ser distinto: Manu Ginóbili at TEDxBuenosAires|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|e_ndlO2SMIQ|TEDxZurich - Marco Tempest - The magic of truth and lies|240|Verified embeddable YouTube video for MINITUBE.
+Education|dCar_sFfEf4|TEDxEdmonton - Cameron Herold - 3/13/10|240|Verified embeddable YouTube video for MINITUBE.
+Education|tripD00-9zU|TEDxVancouver - Neill Blomkamp - 11/21/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|3Cakm2nIQWo|TEDxOakville - Scott Stratten - Keep Going Until We Stop|240|Verified embeddable YouTube video for MINITUBE.
+Education|SJ3nlTgL5Ro|The discomfort of our comfort zone / Wael Fakharany / TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Art|aja-8sYjNaY|Be an artist, right now / Young-ha Kim / TEDxSeoul|240|Verified embeddable YouTube video for MINITUBE.
+DIY|9fD2bMavK8Y|TEDxRamallah - Khaled Al Sabawi - Keeping Palestine Cool: A Different Kind of Underground Movement|240|Verified embeddable YouTube video for MINITUBE.
+Education|rW28i_SBphU|TEDxPhoenixvilleSalon - John Cassidy - Kindness|240|Verified embeddable YouTube video for MINITUBE.
+Education|Nv7n5jhrHGQ|America's native prisoners of war: Aaron Huey at TEDxDU|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|sqjPyzRgnfg|TEDxArabia 2011 / Ayman Jamal / Bilal & BatMan / أيمن جمال / بلال وباتمان|240|Verified embeddable YouTube video for MINITUBE.
+Education|LENqnjZGX0A|TEDxHouston - Dr. David Eagleman|240|Verified embeddable YouTube video for MINITUBE.
+Tech|N2vzotsvvkw|Thorium: Kirk Sorensen at TEDxYYC|240|Verified embeddable YouTube video for MINITUBE.
+Education|6SZFY47aIog|A Play Manifesto: Steve Keil at TEDxBG|240|Verified embeddable YouTube video for MINITUBE.
+Education|GXy__kBVq1M|TEDxBloomington - Shawn Achor - "The Happiness Advantage: Linking Positive Brains to Performance"|240|Verified embeddable YouTube video for MINITUBE.
+Education|iZSHmxeidjc|TEDxYerevan - Hagop Emrazian - Promoting Learning Within 10 Minutes|240|Verified embeddable YouTube video for MINITUBE.
+Education|5XQDXAWkxAk|TEDx - Ideas Impacting the World - TEDGlobal2011 Presentation|240|Verified embeddable YouTube video for MINITUBE.
+News|eb4TM19DYDY|TEDxUIUC - Daniel Simons - Counter-Intuition|240|Verified embeddable YouTube video for MINITUBE.
+Education|HEaERAnIqsY|TEDxTelAviv - Hedy Schleifer - The Power of Connection|240|Verified embeddable YouTube video for MINITUBE.
+Science|Nu7wEr8AnHw|TEDxBlue - Daniel J. Siegel, M.D. - 10/18/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|UgYcQUgDBPc|Es posible lo imposible / Omar Villalobos / TEDxDF|240|Verified embeddable YouTube video for MINITUBE.
+Education|XM9CPSHVOT8|Europa: cómo despertar un espíritu común: Florian Mück at TEDxBarcelona|240|Verified embeddable YouTube video for MINITUBE.
+Education|VAv9_IefGxM|TEDxSingapore - 113 year old Teresa Hsu - Wisdom for all ages|240|Verified embeddable YouTube video for MINITUBE.
+Education|1y8hiuBUnV8|TEDxBuenosAires - Mariano Sigman - 04/08/10|240|Verified embeddable YouTube video for MINITUBE.
+Education|D9_6G8J6VJg|TEDxVienna - Alexander Oswald - Why Kenyans do it better|240|Verified embeddable YouTube video for MINITUBE.
+Education|cvTJzbhX98s|TEDxTokyo - Marco Tempest - 05/15/10 - (English)|240|Verified embeddable YouTube video for MINITUBE.
+Education|KTu8IrHK4R0|TEDxJakarta - Barry Likumahuwa - Bass, Passion, and Breakthrough|240|Verified embeddable YouTube video for MINITUBE.
+Education|MbdxeFcQtaU|TEDxHampshireCollege - Jay Smooth - How I Learned to Stop Worrying and Love Discussing Race|240|Verified embeddable YouTube video for MINITUBE.
+DIY|Lp7E973zozc|How to stop screwing yourself over / Mel Robbins / TEDxSF|240|Verified embeddable YouTube video for MINITUBE.
+Education|HyNinbbzGuE|Y a-t-il une vie avant la mort? Pierre Rabhi at TEDxParis 2011|240|Verified embeddable YouTube video for MINITUBE.
+Education|DImGwfOrvd8|Yasuo SATO [ 佐藤 康雄 ] - TEDxSeeds 2011|240|Verified embeddable YouTube video for MINITUBE.
+Education|wialyRxq7YE|TEDxCreativeCoast - Diana Keough - Life Story|240|Verified embeddable YouTube video for MINITUBE.
+News|hpjwotips7E|TEDxCaltech - Leonard Susskind - Richard Feynman|240|Verified embeddable YouTube video for MINITUBE.
+Science|DnWocYKqvhw|Open science: Michael Nielsen at TEDxWaterloo|240|Verified embeddable YouTube video for MINITUBE.
+Science|zpv6aGTcCl8|TEDxSydney - Rachel Botsman - Collaborative Consumption Author Presents Compelling Case for 21C|240|Verified embeddable YouTube video for MINITUBE.
+Education|VyKO0xtkm6w|TEDx - One Year and Counting - Presented at TEDGlobal 2010|240|Verified embeddable YouTube video for MINITUBE.
+Education|5O00LHnnpBA|A "room" on YouTube! / Bassem Youssef / TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Education|qNAMH2_CLfo|Naheed Nenshi at TEDxCalgary|240|Verified embeddable YouTube video for MINITUBE.
+Education|RAGjNe1YhMA|TEDxObserver - Cory Doctorow|240|Verified embeddable YouTube video for MINITUBE.
+Education|t5HEV96dIuY|TEDxDirigo - Zoe Weil - The World Becomes What You Teach|240|Verified embeddable YouTube video for MINITUBE.
+Education|g-g5CCpYeSM|TEDxCardiff - Tara Busch - 04/14/10|240|Verified embeddable YouTube video for MINITUBE.
+Education|u0eo9hrkCrA|TEDxCairo - Fatma Said - The Day When The People Changed !|240|Verified embeddable YouTube video for MINITUBE.
+Tech|m8PlzDgFQMM|TEDxSanJoseCA - Jeff Greason - Rocket Scientist:  Making Space Pay and Having Fun Doing It|240|Verified embeddable YouTube video for MINITUBE.
+Education|lXGY0X-wdjI|Jaime Lerner / TEDxBuenosAires|240|Verified embeddable YouTube video for MINITUBE.
+Education|AWOpCDBuhgs|TEDxBuenosAires - Miguel Brechner Frey - 04/08/10 (Spanish)|240|Verified embeddable YouTube video for MINITUBE.
+Sports|07o-TASvIxY|TEDxCopenhagen - Mikael Colville-Andersen - Why We Shouldn't Bike with a Helmet|240|Verified embeddable YouTube video for MINITUBE.
+Education|7HU05V9HDHo|TEDxTokyo - Ken Mogi - 05/15/10 - (English)|240|Verified embeddable YouTube video for MINITUBE.
+Education|Tlt47diDnHU|The right to understand: Sandra Fisher-Martins at TEDxO'Porto|240|Verified embeddable YouTube video for MINITUBE.
+Art|4IxNlZChPE0|TEDxTaipei - Janet Hsieh - Let the World be Your Playground|240|Verified embeddable YouTube video for MINITUBE.
+Education|NdeqlPrgdhw|TEDxLahore - Saima Zaidi - Reading visual culture in Pakistan|240|Verified embeddable YouTube video for MINITUBE.
+Education|KTpChP26scI|TEDxBuenosAires - Luis Pescetti - 04/08/10 (Spanish)|240|Verified embeddable YouTube video for MINITUBE.
+Education|mTTO43HVFyU|TEDxDubai - Bashar Atiyat - 10/10/09 [بالعربية]|240|Verified embeddable YouTube video for MINITUBE.
+Education|othM2dwi2bE|TEDx Introduction|240|Verified embeddable YouTube video for MINITUBE.
+Education|xo24PmD9eic|TEDx - Ideas Spreading Everywhere - TED2011 Presentation|240|Verified embeddable YouTube video for MINITUBE.
+Education|Nmefsd5sT_Y|La semaine de merde du futur: Nicolas Bedos at TEDxParis 2011|240|Verified embeddable YouTube video for MINITUBE.
+Education|4Omj0prQPRI|TEDxCairo - Zap Tharwat - The Happiness|240|Verified embeddable YouTube video for MINITUBE.
+Education|4VdO7LuoBzM|TEDxMaastricht - Simon Sinek - "First why and then trust"|240|Verified embeddable YouTube video for MINITUBE.
+Tech|ES_u5b1CAr4|TEDxBoulder - Grant Blakeman - Minimalism - For a More Full Life|240|Verified embeddable YouTube video for MINITUBE.
+Education|9E_BH00dkJk|TEDxLaguna - Cristobal Cobo - Aprendizaje invisible: ¿Cómo aprender a pesar de la escuela?|240|Verified embeddable YouTube video for MINITUBE.
+Education|nORI8r3JIyw|TEDxBerlin - Bernard Lietaer - 11/30/09|240|Verified embeddable YouTube video for MINITUBE.
+Education|HkSUazeI2nM|TEDxVancouver - Nardwuar - Do It Yourself!|240|Verified embeddable YouTube video for MINITUBE.
+Education|e5qUR3tpEdA|The New Way to Work: Charlie Hoehn at TEDxCMU 2011|240|Verified embeddable YouTube video for MINITUBE.
+Education|ZXnV5HzS7nA|TEDxMumbai - Dhanashree Pandit-Rai - 04/03/10|240|Verified embeddable YouTube video for MINITUBE.
+Education|8EEZdO0KAGo|TEDxBuenosAires - Rafael Spregelburd - 04/08/10 (Spanish)|240|Verified embeddable YouTube video for MINITUBE.
+Education|WUBjn3Su2QU|TEDx - Ideas Impacting the World - TEDGlobal 2011 Presentation|240|Verified embeddable YouTube video for MINITUBE.
+Education|D35qys8YZpo|Telling the new story in the old form: Jaram Lee at TEDxSeoul|240|Verified embeddable YouTube video for MINITUBE.
+Education|5umKyVA0jC0|Title of video: Chulmin-Pyo at TEDxYonsei|240|Verified embeddable YouTube video for MINITUBE.
+Education|7tu9nJmr4Xs|The shocking truth about your health / Lissa Rankin / TEDxFiDiWomen|240|Verified embeddable YouTube video for MINITUBE.
+Education|39cVijTd63I|TEDxDubai - Joichi Ito - 10/10/09 [بالعربية]|240|Verified embeddable YouTube video for MINITUBE.
+Education|xyowJZxrtbg|TEDxManhattanBeach - John Bennett - Why Math Instruction Is Unnecessary|240|Verified embeddable YouTube video for MINITUBE.
+Art|XitV7TGn1b4|TEDxUSC - Peter Lee Johnson - Electric Violin Performance|240|Verified embeddable YouTube video for MINITUBE.
+Music|Xq-HpT5jh2Q|TEDxBG - Vladimir Donkov - Wilderness Photographer|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|9APO9_yNbcg|Citizen journalism / Paul Lewis / TEDxThessaloniki|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|1nYFpuc2Umk|TEDxEast - Nancy Duarte uncovers common structure of greatest communicators 11/11/2010|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|9g8T8MsFIp0|TEDxTokyo - Garr Reynolds - Lessons from the Bamboo - [English]|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|NADVKnb09rI|Changing Egypt -- truly, madly, deeply! /  Khaled Abol Naga / TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|K5JOzIlGv08|TEDxIB@York - Amal Ahmed Albaz - 5 before 5|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|RmhuWNO_VZU|TEDxUCLA - Andrew Byrom - If h is a chair|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|zf2F0c9R4Mc|TEDx / In 7 Months...|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|FeZL7DJLSQs|TEDxBerlin 15/11/10 - Maha Alusi - Moments of Happiness|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|kGBQApX1c_c|TEDxAmsterdamWomen 2011 - Andy Torres -  The Key to Successful Blogging|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|D2IQkKE7h9I|The world's smallest 3D printer: Klaus Stadlmann at TEDxVienna|240|Verified embeddable YouTube video for MINITUBE.
+Gaming|yvhCLXEeSDQ|TEDxConejo - Mark Robert Waldman - 03/27/10|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|aFsgpzxuEU4|Mon père, ce faussaire: Sarah Kaminsky at TEDxParis|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|K2Rvh8VG3o8|TEDxVienna-Johannes Grenzfurthner-On how to subvert subversion|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|UZnI_A6GSYE|TEDxSSN - Krish Ashok - Disregard Work, Acquire Hobbies|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|0_f_3FiiTYk|TEDxKL - Yasmin Ahmad - 6/3/09|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|0hcaL4EF1Xs|TEDxPalmaCeia - Mark Katz - Commissions|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|x8UoV0xBsVI|TEDxCaltech - Lyle Mays and Friends|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|lkbWIfP3mLw|The big secret nobody wants to tell / Bruce Muzik / TEDxSinCity|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|Iu81NDXNaNM|TEDxDoha - Ahmed Ahmed - When it Comes to Laughter,  We Are All Alike|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|SczraSQE3MY|TEDxCaltech - Scott Aaronson - Physics in the 21st Century: Toiling in Feynman's Shadow|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|UQBp6z4j704|Gunter Pauli at TEDxTokyo 2009|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|RvFBBc7iRWg|TEDxCairo - Shereef Abd El Azeem - Volunteerism|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|pkFRwhJEOos|Turning Fear Into Fuel: Jonathan Fields at TEDxCMU 2010|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|-T9UaP1AsMI|TEDxMidAtlantic - Joel Salatin - 11/5/09|240|Verified embeddable YouTube video for MINITUBE.
+Cooking|mS0SDmud32w|Espri Yolu: Erdil Yaşaroğlu at TEDxReset 2011|240|Verified embeddable YouTube video for MINITUBE.
+Travel|qaeFnxSfSC4|TEDxBlue - Angela Lee Duckworth, Ph.D - 10/18/09|240|Verified embeddable YouTube video for MINITUBE.
+Travel|HGiHU-agsGY|Learning from failure / David Damberger / TEDxYYC|240|Verified embeddable YouTube video for MINITUBE.
+Travel|vKioOmhIfGU|Alimentacion Infantil Libre de Papillas: Carlos Gonzalez at TEDxValencia|240|Verified embeddable YouTube video for MINITUBE.
+Travel|W-tc1vyoeBc|TEDxSydney - Daniel Johns & Josh Wakely - My Mind's Own Melody|240|Verified embeddable YouTube video for MINITUBE.
+Travel|jMp0GqeD5e0|Engineer and inventor / Israel Belema / TEDxAddis|240|Verified embeddable YouTube video for MINITUBE.
+Travel|hVCBrkrFrBE|TEDxToronto -  Drew Dudley "Leading with Lollipops"|240|Verified embeddable YouTube video for MINITUBE.
+Travel|xdROsuWCz7w|Le Vinvin show de clôture! Vinvin at TEDxParis 2010|240|Verified embeddable YouTube video for MINITUBE.
+Travel|rTOLkm5hNNU|TEDxNYED - Jeff Jarvis - 03/06/10|240|Verified embeddable YouTube video for MINITUBE.
+Travel|Y9oVNP9zeEM|Improving lives with emotionally intelligent technology / Rana El Kaliouby / TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Travel|5CcA-ucHKQg|TEDxTokyo - 茂木健一郎 - 05/15/10 - (日本語)|240|Verified embeddable YouTube video for MINITUBE.
+Travel|kjYX4iKgT7E|TEDxSF - Nate Quarry - 4/27/10 - Fighting Back|240|Verified embeddable YouTube video for MINITUBE.
+Travel|CGd_M_CpeDI|TEDxPSU - Bruce Schneier - Reconceptualizing Security|240|Verified embeddable YouTube video for MINITUBE.
+Travel|WMaTyg8wR4Y|Cosmology and the arrow of time: Sean Carroll at TEDxCaltech|240|Verified embeddable YouTube video for MINITUBE.
+Sports|6yOlfdXnovg|TEDxBuenosAires - Inés Sanguinetti  - 04/08/10|240|Verified embeddable YouTube video for MINITUBE.
+Sports|lBS4T3NfZbM|TEDxBuenosAires - Bea Pellizzari - 04/08/10 (Spanish)|240|Verified embeddable YouTube video for MINITUBE.
+Sports|f_wlEtlsuxg|TEDxTokyo -ジェイク・シマブクロ - 05/15/10 - (日本語)|240|Verified embeddable YouTube video for MINITUBE.
+Sports|un4qbATrmx8|More humane medical experience: General Doctors at TEDxSeoul|240|Verified embeddable YouTube video for MINITUBE.
+Sports|unxL5RRhNb0|Fear and Permission: Chris Guillebeau at TEDxCMU 2010|240|Verified embeddable YouTube video for MINITUBE.
+Sports|9Il_D3Xt9W0|Seeing the world as it isn't  / Daniel Simons / TEDxUIUC|240|Verified embeddable YouTube video for MINITUBE.
+Sports|Z3CDOS4GNdQ|Renée Byer at TEDxTokyo 2009|240|Verified embeddable YouTube video for MINITUBE.
+Sports|5298KZuW_JE|TEDxBrooklyn- Callie Curry aka Swoon|240|Verified embeddable YouTube video for MINITUBE.
+Sports|soqtTCeczbM|TEDxVancouver - Nazanin Afshin-Jam - Voice for the Voiceless|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|OZdFErDoU3U|TEDxBucharest - Oana Pellea|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|Q8tDpQp6m0A|Transformational festivals: Jeet Kei Leung at TEDxVancouver|240|Verified embeddable YouTube video for MINITUBE.
+Comedy|1GFst2IQBEM|TEDxHouston 2011 - Wade Adams - Nanotechnology and Energy|240|Verified embeddable YouTube video for MINITUBE.
+News|T-ldzLSFxds|TEDxSF - Grow a New Eye|240|Verified embeddable YouTube video for MINITUBE.
+News|ElI-XVGHCHs|TEDxPSU - Michael Mann - A Look Into Our Climate: Past To Present To Future|240|Verified embeddable YouTube video for MINITUBE.
+News|1KkWF5E0Wlg|TEDxObserver - René Redzepi|240|Verified embeddable YouTube video for MINITUBE.
+News|MtLVCpZIiNs|TEDxUIUC - Sherry Turkle - Alone Together|240|Verified embeddable YouTube video for MINITUBE.
+News|ua9oGxNNGd0|TEDxCopenhagen - Kristian von Bengtson - Danes in space|240|Verified embeddable YouTube video for MINITUBE.
+News|ODnt89o7hwU|TEDxParis 2010 - Guy-Philippe Goldstein - Faut-il craindre une cyber-guerre?|240|Verified embeddable YouTube video for MINITUBE.
+News|nG0WiP5ux1Q|TEDxAtlanta - Sally Hogshead - How to Fascinate|240|Verified embeddable YouTube video for MINITUBE.
+News|Optk-gYgFo8|TEDxRheinNeckar - Gunter Dueck - Bildung und Mensch im digitalen Zeitalter|240|Verified embeddable YouTube video for MINITUBE.
+News|-H8iLYdn21Y|TEDxBuenosAires - Luis Moreno Ocampo - 04/08/10|240|Verified embeddable YouTube video for MINITUBE.
+Art|fnG4I3hBJKY|Los genes, la evolución y nosotros: Alberto Kornblihtt at TEDxBuenosAires|240|Verified embeddable YouTube video for MINITUBE.
+Art|GXEbqKaFf6A|Highlights from TEDx 2009 Events|240|Verified embeddable YouTube video for MINITUBE.
+Art|ocbyS9-3jjM|TEDxIslay - Wayne Betts Jr - Deaf Lens|240|Verified embeddable YouTube video for MINITUBE.
+Art|AHSm8sIopKw|TEDxLahore - Mudassir Zia - Vision to do, dare and dream|240|Verified embeddable YouTube video for MINITUBE.
+Art|YuYyq_7KhjA|Researching or reporting -- revelations from the field: Leslie Dodson at TEDxBOULDER|240|Verified embeddable YouTube video for MINITUBE.
+Art|6ogzQeg5uRk|TEDxManhattanBeach - Haley Rushing - Purpose Driven Revitalization|240|Verified embeddable YouTube video for MINITUBE.
+Art|LeaAHv4UTI8|TEDxKC - Michael Wesch - From Knowledgeable to Knowledge-Able|240|Verified embeddable YouTube video for MINITUBE.
+Art|Z3Cd-oEvEog|TEDxKrakow - Srdja Popovic - How to topple a dictator|240|Verified embeddable YouTube video for MINITUBE.
+Science|B5NWJsst_2o|Dare to be Different. (許芳宜 - 不怕和世界不一樣): Feng-Yi Sheu at TEDxTaipei|240|Verified embeddable YouTube video for MINITUBE.
+Science|ek_q0qvfBqE|TEDxEastHampton - Joel Hoffman - Interpreting Language|240|Verified embeddable YouTube video for MINITUBE.
+Science|0Ciy8sSn4fo|What is innovation? /  Introduction interviews / TEDxArabia|240|Verified embeddable YouTube video for MINITUBE.
+Science|onaapqbCXQ8|TEDxPennQuarter - David Armano - Reinventing Social Media|240|Verified embeddable YouTube video for MINITUBE.
+Science|LuHNVYW4tW0|TEDxToronto - Dave Meslin "Redefining Apathy"|240|Verified embeddable YouTube video for MINITUBE.
+Science|qSRIX8zLy64|Le bois raméal fragmenté, une alternative aux engrais chimiques? Jacky Dupéty at TEDxParis 2011|240|Verified embeddable YouTube video for MINITUBE.
+Science|w3XTHevPXDY|TEDxPennQuarter - Christopher McDougall|240|Verified embeddable YouTube video for MINITUBE.
+Science|4dEzNMx94s0|TEDxConcordia - Yan Ohayon - The Impact of Algorithmic Trading|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|LRBdMhVG_Co|TEDxTokyo - Rome Kanda - 05/15/10 - (English)|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|ebJHzpEy4bE|TEDxNYED - Alan November - 03/05/2011|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|I13yL8ygwhk|TEDxBerlin - Raul Krauthausen- Wheelmap.org|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|bGgTK8IDVjA|TEDxTokyo - Dr. Yoshiyuki Sankai - 05/10/15 - English|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|aWPB0xeM8UA|Sustainable DoReMi: Geon Hyeok Go at TEDxSeoul|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|LKm_mnbN9JY|TEDxMidAtlantic - Roland Griffiths - 11/5/09|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|L9Cgaa8U4eY|TEDxAmsterdam - Wim Hof - 11/30/10|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|wGWzmst0R7E|Unity / Benjamin Zander and the YOA / TEDxBoston|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|cUZunf6mV_8|Lucky / George Watsky / TEDxSFED|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|ir3m6y7JXF0|TEDxUbud - Tah Riq Amawi - Taking a Leap: From Desktop to Rooftop|240|Verified embeddable YouTube video for MINITUBE.
+Fitness|6pIDlY2CkQ8|About the magic that is still out there / Sahar El Mougy / TEDxCairo|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|bjoWSx5QeK8|TEDxKarachi - Asad Rezzvi - Motivating People into Action|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|TT6qWghHkFI|How to be a miracle worker: Gabrielle Bernstein at TEDxFiDiWomen|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|hDw_Tq1anKU|TEDxJakarta - Ridwan Kamil - Creativity and Design for Social Change in Cities|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|xX-iXR_0uEU|TEDxWoodsHole - Dan Ariely - Temptations and Self-Control|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|Ni75vIE4vdk|TEDxNYED - Will Richardson - 03/05/2011|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|XO2pwnrji8I|Killing trees is murder: Zé Cláudio Ribeiro at TEDxAmazonia|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|TqzUHcW58Us|TEDxTC - Peter Benson - Sparks: How Youth Thrive.|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|ZiB5-JGNArM|TEDxLahore - Zubair Bhatti - The incredible "Jhang model" of governance|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|7uPLJIGOXEw|TEDxDubai - Jamil Abu Wardeh - 10/10/09 [بالعربية]|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|jSMSjaZy5hY|TEDxTokyo - Hiroshi Ishii - The Last Farewell - [English]|240|Verified embeddable YouTube video for MINITUBE.
+Fashion|ZbIP5wflxSo|In odgovoren je... Aleksander Zadel at TEDxLjubljana|240|Verified embeddable YouTube video for MINITUBE.
+DIY|8xyyD-b9awE|Segurança pública tem saída: Rodrigo Pimentel at TEDxSudeste|240|Verified embeddable YouTube video for MINITUBE.
+DIY|Z6T37m4r3yo|Turning the Farm Bill into the Food Bill: Ken Cook at TEDxManhattan|240|Verified embeddable YouTube video for MINITUBE.
+DIY|FhTUzNKpfio|TEDxNYED - Lawrence Lessig - 03/06/10|240|Verified embeddable YouTube video for MINITUBE.
+DIY|xjzVM7e5bYc|TEDxLisboa - Natalia Juskiewicz - Um Violino no Fado|240|Verified embeddable YouTube video for MINITUBE.
+DIY|fBYQeOlv0Dc|TEDxAustin - Ruby Jane Smith - 02/20/10|240|Verified embeddable YouTube video for MINITUBE.
+DIY|62PgFb2cXSg|TEDxMaastricht - Tim Hurson - "The shock of the possible"|240|Verified embeddable YouTube video for MINITUBE.
+Pets|LkojZhupzWA|TEDxTaipei 2011 - Ming-cheng Huang (黃明正)|240|Verified embeddable YouTube video for MINITUBE.
+Pets|ZT3NBbD_ml8|TEDxAthens - Kostas Grammatis - A Human Right|240|Verified embeddable YouTube video for MINITUBE.
+Pets|mYE3XZUjxnw|Zero cost diagnostics / George Whitesides / TEDxBoston|240|Verified embeddable YouTube video for MINITUBE.
+Pets|XguYjD0jfMw|TEDxDubai - Khulood Al Atiyat - 10/10/09 [بالعربية]|240|Verified embeddable YouTube video for MINITUBE.
+Pets|PuZgkL5BEBk|TEDxParis 2011 - Jean-François Noubel - Après l'argent|240|Verified embeddable YouTube video for MINITUBE.
+Pets|U3kKjGKp9rA|TEDxObserver - Cédric Villani|240|Verified embeddable YouTube video for MINITUBE.
+Pets|ZLyPhexkO3w|TEDxDanubia 2011 - Herman Gábor - GMT+2|240|Verified embeddable YouTube video for MINITUBE.
+Pets|oIixUDub1CM|TEDxParis 2010 - Joël de Rosnay - Voyage vers le futur du web et la singularité|240|Verified embeddable YouTube video for MINITUBE.
+Pets|0vaDUOWqEAw|TEDxSRM - Rahul K Easwar - India is My Religion|240|Verified embeddable YouTube video for MINITUBE.
+Pets|21rwo342nqY|Como se nos ocurren las ideas: Estanislao Bachrach at TEDxRosario|240|Verified embeddable YouTube video for MINITUBE.
+Pets|lh4y_HiKqhM|TEDxSydney - Missy Higgins - Melbourne Singer Songwriter Charms with 3 Great Songs|240|Verified embeddable YouTube video for MINITUBE.
+Pets|dcDCXzX_HQA|TEDxGrassValley - Chameli Ardagh - The Fierce face of the Feminine|240|Verified embeddable YouTube video for MINITUBE.

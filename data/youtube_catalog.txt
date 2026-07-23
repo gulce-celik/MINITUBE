@@ -1,0 +1,98 @@
+# Gülce Celik - verified embeddable YouTube videos (oEmbed + thumbnail tested)
+# Format: category|youtube_id|title|duration_seconds|description
+Music|fJ9rUzIMcZQ|Queen - Bohemian Rhapsody (Official Video)|355|Classic rock anthem from Queen.
+Music|kJQP7kiw5Fk|Luis Fonsi - Despacito ft. Daddy Yankee|282|Latin pop global hit.
+Music|9bZkp7q19f0|PSY - GANGNAM STYLE|252|Viral K-pop dance video.
+Music|RgKAFK5djSk|Wiz Khalifa - See You Again ft. Charlie Puth|229|Emotional hip-hop ballad.
+Music|y6120QOlsfU|Darude - Sandstorm|225|Iconic electronic track.
+Music|60ItHLz5WEA|Avicii - Wake Me Up|275|EDM crossover hit.
+Music|e-ORhEE9VVg|Taylor Swift - Blank Space|231|Pop hit official video.
+Music|2Vv-BfVoq4g|Ed Sheeran - Perfect (Official Music Video)|263|Romantic ballad.
+Music|CevxZvSJLk8|Katy Perry - Roar|269|Empowerment pop anthem.
+Music|hT_nvWreIhg|OneRepublic - Counting Stars|257|Alternative rock hit.
+Music|ktvTqknDobU|Imagine Dragons - Radioactive|187|Arena rock single.
+Music|ZbZSe6N_BXs|Pharrell Williams - Happy|233|Feel-good pop song.
+Music|YQHsXMglC9A|Adele - Hello (Official Music Video)|295|Powerful vocal performance.
+Music|YlUKcNNmywk|Red Hot Chili Peppers - Californication|329|Alternative rock classic.
+Music|rYEDA3JcQqw|Adele - Rolling in the Deep|228|Soul-pop breakout hit.
+Music|3tmd-ClpJxA|Taylor Swift - Look What You Made Me Do|242|Pop drama music video.
+Music|kXYiU_JCYtU|Numb (Official Music Video) - Linkin Park|185|Rock anthem.
+Music|1G4isv_Fylg|Coldplay - Paradise (Official Video)|278|Stadium pop rock.
+Music|0KSOMA3QBU0|Katy Perry - Dark Horse ft. Juicy J|215|Dark pop single.
+Music|450p7goxZqg|John Legend - All of Me (Official Video)|285|Piano ballad.
+Music|nSDgHBxUbVQ|Ed Sheeran - Photograph (Official Music Video)|259|Acoustic love song.
+Music|O4irXQhgMqg|The Rolling Stones - Paint It, Black|220|Classic rock hit.
+Music|fRh_vgS2dFE|Justin Bieber - Sorry (PURPOSE : The Movement)|200|Dance pop hit.
+Music|pRpeEdMmmQ0|Shakira - Waka Waka (Esto es Africa)|202|World Cup anthem.
+Music|uelHwf8o7_U|Shakira - Waka Waka (This Time for Africa)|202|Official FIFA song.
+Music|QJO3ROT-A4E|One Direction - What Makes You Beautiful|199|Boy band pop hit.
+Music|kffacxfA7G4|Bruno Mars - The Lazy Song|215|Reggae-pop party track.
+Music|lp-EO5I60KA|Taylor Swift - Shake It Off|242|Upbeat pop single.
+Music|Zi_XLOBDo_Y|ME! (feat. Brendon Urie) - Taylor Swift|193|Colorful pop duet.
+Music|09R8_2nJtjg|Billie Eilish - bad guy|194|Dark pop breakout.
+Gaming|jNQXAC9IVRw|Me at the zoo|19|First YouTube video ever uploaded.
+Gaming|dQw4w9WgXcQ|Rick Astley - Never Gonna Give You Up|213|Classic internet meme song.
+Gaming|OPf0YbXqDm0|Markiplier Funny Moments|420|Gaming creator comedy clips.
+Gaming|XqZsoesa55w|Baby Shark Dance|131|Viral kids dance video.
+Gaming|J---aiyznGQ|Keyboard Cat - Original|55|Classic viral cat video.
+Gaming|VqB1uoDTdKM|DOOR STUCK! DOOR STUCK!|180|Classic gaming meme clip.
+Gaming|LsoLEjrDogU|Big Buck Bunny|596|Open movie short animation.
+Gaming|fLexgOxsZu0|Big Buck Bunny - Official Blender Foundation short|596|Open-source 3D animation.
+Education|rfscVS0vtbw|Learn Python - Full Course for Beginners|15200|Complete Python programming course.
+Education|zOjov-2OZ0E|Introduction to Programming and Computer Science - Full Course|36000|Harvard-style CS intro course.
+Education|aircAruvnKk|But what is a neural network?|1240|Visual intro to machine learning.
+Education|8D9XnnjFGMs|MySQL Tutorial for Beginners|5400|Database fundamentals with SQL.
+Education|iG9CE55wbtY|Do schools kill creativity? | Sir Ken Robinson | TED|1160|Famous TED talk on education.
+Education|PkZNo7MFNFg|JavaScript Full Course for Beginners|10200|Modern JavaScript programming tutorial.
+Education|5MgBikgcWnY|The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU|1200|Learning skills talk.
+Education|N9qYF9DZPdw|Weird Al Yankovic - White & Nerdy (Official 4K Video)|200|Programming humor music video.
+Tech|M7lc1UVf-VE|YouTube Developers Live: Embedded Web Player Customization|600|How web video players work.
+Tech|aircAruvnKk|But what is a neural network?|1240|Tech explainer on AI basics.
+Tech|8D9XnnjFGMs|MySQL Tutorial for Beginners|5400|Backend and database skills.
+Tech|PkZNo7MFNFg|JavaScript Full Course for Beginners|10200|Frontend programming tutorial.
+Tech|rfscVS0vtbw|Learn Python - Full Course for Beginners|15200|Software development foundations.
+Tech|zOjov-2OZ0E|Introduction to Programming and Computer Science - Full Course|36000|Computer science foundations.
+Cooking|LsoLEjrDogU|Big Buck Bunny|596|Animated short demo.
+Cooking|astISOttCQ0|Gummibar - The Gummy Bear Song|180|Fun food-themed music clip.
+Cooking|450p7goxZqg|John Legend - All of Me (Official Video)|285|Romantic dinner playlist pick.
+Cooking|fLexgOxsZu0|Big Buck Bunny - Official Blender Foundation short|596|Kitchen scene animation demo.
+Travel|LXb3EKWsInQ|COSTA RICA IN 4K 60fps HDR (ULTRA HD)|510|Scenic travel footage.
+Travel|1La4QzGeaaQ|Peru 8K HDR 60FPS (FUHD)|480|South America travel visuals.
+Travel|fLexgOxsZu0|Big Buck Bunny - Official Blender Foundation short|596|Nature scenery animation.
+Travel|O4irXQhgMqg|The Rolling Stones - Paint It, Black (Official Lyric Video)|220|Road trip playlist visual.
+Sports|UBMk30rjy0o|10 Minute Morning Stretch Routine|600|Mobility and warm-up flow.
+Sports|hHUbLv4ThOo|Pitbull, Ke$ha - Timber (featuring Ke$ha - Official Video)|204|High-energy dance workout.
+Sports|VqB1uoDTdKM|DOOR STUCK! DOOR STUCK!|180|Gaming sports meme clip.
+Sports|XqZsoesa55w|Baby Shark Dance|131|Kids fitness dance routine.
+Comedy|L_jWHffIx5E|Smosh - Funniest Moments|360|Sketch comedy compilation.
+Comedy|dQw4w9WgXcQ|Rick Astley - Never Gonna Give You Up|213|Classic comedy meme.
+Comedy|VqB1uoDTdKM|DOOR STUCK! DOOR STUCK!|180|Viral funny gaming moment.
+Comedy|hY7m5jjJ9mM|CATS will make you LAUGH YOUR HEAD OFF|420|Funny cat compilation.
+Comedy|N9qYF9DZPdw|Weird Al Yankovic - White & Nerdy (Official 4K Video)|200|Parody comedy music video.
+Comedy|astISOttCQ0|Gummibar - The Gummy Bear Song|180|Absurd comedy music clip.
+News|iG9CE55wbtY|Do schools kill creativity? | Sir Ken Robinson | TED|1160|Important public talk.
+News|5MgBikgcWnY|The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU|1200|TEDx news-style talk.
+News|ScMzIvxBSi4|Placeholder Video|60|News placeholder clip.
+News|M7lc1UVf-VE|YouTube Developers Live: Embedded Web Player Customization|600|Tech news style update.
+Art|ScMzIvxBSi4|Placeholder Video|60|Creative placeholder clip.
+Art|LsoLEjrDogU|Big Buck Bunny|596|Digital art animation showcase.
+Art|fLexgOxsZu0|Big Buck Bunny - Official Blender Foundation short|596|3D art timelapse style film.
+Art|CevxZvSJLk8|Katy Perry - Roar|269|Visual art in music video form.
+Science|aircAruvnKk|But what is a neural network?|1240|Science and math explainer.
+Science|iG9CE55wbtY|Do schools kill creativity? | Sir Ken Robinson | TED|1160|Science of learning talk.
+Science|5MgBikgcWnY|The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU|1200|Psychology of learning.
+Science|8D9XnnjFGMs|MySQL Tutorial for Beginners|5400|Computer science data topic.
+Fitness|UBMk30rjy0o|10 Minute Morning Stretch Routine|600|Mobility and warm-up flow.
+Fitness|hHUbLv4ThOo|Pitbull, Ke$ha - Timber (featuring Ke$ha - Official Video)|204|Cardio dance workout.
+Fitness|XqZsoesa55w|Baby Shark Dance|131|Family fitness dance.
+Fashion|0e3GPea1Tyg|Capsule Wardrobe Essentials|720|Minimalist style guide.
+Fashion|YQHsXMglC9A|Adele - Hello (Official Music Video)|295|Fashion-forward music video look.
+Fashion|3tmd-ClpJxA|Taylor Swift - Look What You Made Me Do|242|High fashion music video.
+DIY|M7lc1UVf-VE|YouTube Developers Live: Embedded Web Player Customization|600|Build and customize web projects.
+DIY|LsoLEjrDogU|Big Buck Bunny|596|Open-source creative project.
+DIY|8D9XnnjFGMs|MySQL Tutorial for Beginners|5400|Build a database project.
+DIY|PkZNo7MFNFg|JavaScript Full Course for Beginners|10200|Build your own web apps.
+Pets|hY7m5jjJ9mM|CATS will make you LAUGH YOUR HEAD OFF|420|Funny cat compilation.
+Pets|J---aiyznGQ|Keyboard Cat - Original|55|Classic viral cat video.
+Pets|astISOttCQ0|Gummibar - The Gummy Bear Song|180|Fun pet-themed clip for kids.
+Pets|XqZsoesa55w|Baby Shark Dance|131|Kids and pets dance fun.
